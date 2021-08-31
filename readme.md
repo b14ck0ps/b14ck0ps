@@ -51,6 +51,6 @@
 
 [website]: https://b14ck0ps.github.io
 [youtube]: https://youtube.com/b14ck0ps
-[instagram]: https://instagram.com/b14cj0ps
+[instagram]: https://instagram.com/b14ck0ps
 [linkedin]: https://linkedin.com/in/azran
 [facebook]: https://www.facebook.com/azran.mrx
