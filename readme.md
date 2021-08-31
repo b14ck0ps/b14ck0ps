@@ -35,14 +35,19 @@
 <br />
 <br />
 
-
-
-<details>
   <summary>🔥 GitHub Stats</summary>
-[![b14ck0ps's GitHub stats](https://github-readme-stats.vercel.app/api?username=b14ck0ps)]
-
-
-</details>
+<p align="center">
+   <table>
+      <tr>
+       <th>Profile stats  </th>
+       <th>Language Contribution</th>
+     </tr>
+      <tr>
+       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=b14ck0ps&show_icons=true&theme=dark"> </td>
+       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b14ck0ps&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
+     </tr>
+   </table>
+</p>
 
 [website]: https://b14ck0ps.github.io
 [youtube]: https://youtube.com/b14ck0ps
