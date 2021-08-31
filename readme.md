@@ -13,7 +13,7 @@
 ### Connect with me:
 [<img align="left" alt="azran | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="b14ck0ps | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="b14ck0ps | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="b14ck0ps | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -53,4 +53,4 @@
 [youtube]: https://youtube.com/b14ck0ps
 [instagram]: https://instagram.com/b14cj0ps
 [linkedin]: https://linkedin.com/in/azran
-[facebook]: https:fb.me/azran.mrx
+[facebook]: https://www.facebook.com/azran.mrx
