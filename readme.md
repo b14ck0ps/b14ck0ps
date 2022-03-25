@@ -1,7 +1,6 @@
 ### Assalamu alaikum, I'm Azran - aka b14ck0ps👋
 
 [![Website](https://img.shields.io/website?label=b14ck0ps&style=for-the-badge&url=https://b14ck0ps.github.io)](https://b14ck0ps.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/b14ck0ps?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/b14ck0ps)
 
 ## I'm a student of computer science & a Gamer
 
