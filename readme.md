@@ -1,20 +1,4 @@
-### Assalamu alaikum, I'm Azran - aka b14ck0ps👋
-
-[![Website](https://img.shields.io/website?label=b14ck0ps&style=for-the-badge&url=https://b14ck0ps.github.io)](https://b14ck0ps.github.io)
-
-## I'm a student of computer science & a Gamer
-
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I don't have any physical books. I learn everythings from online resources
-
-### Connect with me:
-[<img align="left" alt="azran | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="b14ck0ps | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="b14ck0ps | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
-<br />
+🌌 [b14ck0ps.github.io](https://b14ck0ps.github.io)
 
 ### Languages and Tools:
 
@@ -53,3 +37,8 @@
 [instagram]: https://instagram.com/b14ck0ps
 [linkedin]: https://linkedin.com/in/azran
 [facebook]: https://www.facebook.com/azran.mrx
+
+### Connect with me:
+[<img align="left" alt="azran | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="b14ck0ps | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="b14ck0ps | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
