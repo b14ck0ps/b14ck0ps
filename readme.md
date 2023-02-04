@@ -21,20 +21,17 @@
       <img width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/dotnet.svg" alt="">
       <img width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/express.svg" alt="">
       <img width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/tailwindcss.svg" alt="">
-      <img width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/bootstrap.svg" alt="">
     </td>
     <td>
       <!-- IDE -->
       <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/visualstudiocode.svg" alt="">
       <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/visualstudio.svg" alt="">
-      <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/intellijidea.svg" alt="">
     </td>
     <td>
       <!-- db -->
       <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/microsoftsqlserver.svg" alt="">
       <img width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/mysql.svg" alt="">
       <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/postgresql.svg" alt="">
-      <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/mongodb.svg" alt="">
     </td>
     <td>
       <!-- tools -->
@@ -42,7 +39,6 @@
       <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/docker.svg" alt="">
       <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/figma.svg" alt="">
       <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/jupyter.svg" alt="">
-      <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/adobephotoshop.svg" alt="">
     </td>
   </tr>
 </table>
