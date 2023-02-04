@@ -1,7 +1,8 @@
-<img style="display: block; margin: 15px auto;" width="60" src="https://imgur.com/oiCKcTx.gif" alt="">
-
-<p style="text-align: center;">
-  <a href="https://b14ck0ps.github.io">https://b14ck0ps.github.io</a>
+<p align="center">
+  <img  width="60" src="https://imgur.com/oiCKcTx.gif" alt="">
+  <p align="center">
+    <a href="https://b14ck0ps.github.io">https://b14ck0ps.github.io</a>
+  </p>
 </p>
 
 <table style="margin: auto; margin-bottom: 15px;">
@@ -64,7 +65,8 @@
 </table>
 </p>
 
-<table style="margin: auto;">
+
+<table>
   <tr>
     <th style="text-align: center">contact</th>
   </tr>
