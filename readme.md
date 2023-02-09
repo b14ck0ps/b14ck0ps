@@ -39,6 +39,7 @@
       <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/docker.svg" alt="">
       <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/figma.svg" alt="">
       <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/jupyter.svg" alt="">
+      <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/git.svg" alt="">
     </td>
   </tr>
 </table>
