@@ -26,7 +26,7 @@
       <!-- IDE -->
       <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/visualstudiocode.svg" alt="">
       <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/visualstudio.svg" alt="">
-      <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/intellijidea.svg" alt="">
+      <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/jetbrains.svg" alt="">
     </td>
     <td>
       <!-- db -->
