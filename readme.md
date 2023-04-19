@@ -1,8 +1,8 @@
 <p align="center">
-  <img  width="60" src="https://imgur.com/oiCKcTx.gif" alt="">
-  <p align="center">
-    <a href="https://b14ck0ps.github.io">https://b14ck0ps.github.io</a>
-  </p>
+  <img width="60" src="https://imgur.com/oiCKcTx.gif" alt="">
+<p align="center">
+  <a href="https://b14ck0ps.github.io">https://b14ck0ps.github.io</a>
+</p>
 </p>
 
 <table style="margin: auto; margin-bottom: 15px;">
@@ -45,7 +45,6 @@
   </tr>
 </table>
 
-
 <p align="center">
 <table>
   <tr>
@@ -56,31 +55,28 @@
     <td><img alt="Azran :: Profile Stats"
         src="https://github-readme-stats.vercel.app/api?username=b14ck0ps&show_icons=true&theme=codeSTACKr&hide_border=true&border_radius=10&hide=stars,issues&include_all_commits=true&count_private=true">
     </td>
-    <td><img alt="Azran :: Top Langs]"
+    <td><img width="345" alt="Azran :: Top Langs"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=b14ck0ps&layout=compact&langs_count=8&theme=codeSTACKr&hide_border=true&border_radius=10&hide=jupyter%20Notebook,css,blade,hack">
     </td>
   </tr>
 </table>
 </p>
 
-
 <table>
   <tr>
-    <th style="text-align: center">contact</th>
+    <th>Discord</th>
+    <th>Steam</th>
   </tr>
   <tr>
     <td>
       <a href="https://discordapp.com/users/355617606893568001">
-        <img align="left" alt="Azran's discord" width="50px"
-          src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/discord.svg" />
+        <img align="left" alt="Azran's discord" src="https://discord.c99.nl/widget/theme-4/355617606893568001.png" />
       </a>
+    </td>
+    <td>
       <a href="https://steamcommunity.com/id/b14ckops/">
-        <img align="left" alt="Azran's Steam" width="50px"
-          src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/steam.svg" />
-      </a>
-      <a href="mailto:mr69751@gmail.com">
-        <img align="left" alt="Azran's Steam" width="50px"
-          src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/gmail.svg" />
+        <img height="140" width="400"
+          src="https://card.yuy1n.io/card/76561198406814474/tokyonight,en,badge,group,games,screenshots">
       </a>
     </td>
   </tr>
