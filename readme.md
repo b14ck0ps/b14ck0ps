@@ -21,10 +21,12 @@
       <img width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/dotnet.svg" alt="">
       <img width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/express.svg" alt="">
       <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/flutter.svg" alt="">
+      <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/jquery.svg" alt="">
       <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/tailwindcss.svg" alt="">
       <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/bootstrap.svg" alt="">
       <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/tensorflow.svg" alt="">
       <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/pytorch.svg" alt="">
+      <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/opencv.svg" alt="">
     </td>
     <td>
       <!-- IDE -->
@@ -50,6 +52,8 @@
       <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/adobephotoshop.svg" alt="">
       <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/nodedotjs.svg" alt="">
       <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/postman.svg" alt="">
+      <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/gnometerminal.svg" alt="">
+      <img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/discord.svg" alt="">
     </td>
   </tr>
 </table>
