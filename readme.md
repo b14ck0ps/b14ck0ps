@@ -2,6 +2,7 @@
   <img width="60" src="https://imgur.com/oiCKcTx.gif" alt="">
 <p align="center">
   <a href="https://b14ck0ps.github.io">https://b14ck0ps.github.io</a>
+  
 </p>
 </p>
 
@@ -94,3 +95,9 @@
     </td>
   </tr>
 </table>
+
+  ```
+  Evil is Evil. Lesser, greater, middling… Makes no difference. The degree is arbitary. The definition’s blurred. 
+  If I’m to choose between one evil and another… 
+  I’d rather not choose at all.
+  ```
