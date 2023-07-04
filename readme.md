@@ -1,7 +1,7 @@
 <p align="center">
   <img width="60" src="https://imgur.com/oiCKcTx.gif" alt="">
 <p align="center">
-  <a href="https://b14ck0ps.github.io">https://b14ck0ps.github.io</a>
+  <a href="https://azran.bio.link">https://azran.bio.link</a>
   
 </p>
 </p>
